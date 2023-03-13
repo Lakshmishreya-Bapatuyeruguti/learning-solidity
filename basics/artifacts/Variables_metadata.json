@@ -12,6 +12,19 @@
 			},
 			{
 				"inputs": [],
+				"name": "ADDR",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "age",
 				"outputs": [
 					{
@@ -149,11 +162,11 @@
 	},
 	"sources": {
 		"basics/Variables.sol": {
-			"keccak256": "0xddfe747fb9096b230557572c857b4289c8d8eaf160fc9efccb5ebd257d65d28e",
+			"keccak256": "0x6613de2166a772e3c8c012d6d961283285b54e0422fd11a2e07c3793b3c70ce4",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://983d8c7339e9547f42f734ed10816745d12deb5d73cd0ca18089f56dadb0e5aa",
-				"dweb:/ipfs/QmT11GTCGTv9mmcvvhX31XyCoM5x7r3AbkBY6xeBuzFhqn"
+				"bzz-raw://239790cc5b1ba237fbeff001a0568f2d621711419acf2d84ec77a8374fd57eb9",
+				"dweb:/ipfs/QmTQkuwRgzDmnmT5eVxY4tiK6rdutC6XXF7oXUh5rFfgeA"
 			]
 		}
 	},

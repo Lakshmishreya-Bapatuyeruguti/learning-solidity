@@ -7,9 +7,10 @@ contract Variables{
     uint  public age=10;
     uint public id;
     string  public name;
+    address public constant ADDR=0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
  
     // way2 - in constructor
-    constructor() public{
+    constructor() {
         id=1;
     }
     // way3 - in function   
