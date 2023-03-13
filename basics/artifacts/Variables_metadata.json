@@ -162,11 +162,11 @@
 	},
 	"sources": {
 		"basics/Variables.sol": {
-			"keccak256": "0x6613de2166a772e3c8c012d6d961283285b54e0422fd11a2e07c3793b3c70ce4",
+			"keccak256": "0xe5e619fa94467e97a580aabf68c9f488b806888f96d6377087507b9ddbac5228",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://239790cc5b1ba237fbeff001a0568f2d621711419acf2d84ec77a8374fd57eb9",
-				"dweb:/ipfs/QmTQkuwRgzDmnmT5eVxY4tiK6rdutC6XXF7oXUh5rFfgeA"
+				"bzz-raw://fc471311df2dd6ce99a4b850df1044c004683cdcb61250c60305358223dff286",
+				"dweb:/ipfs/QmRGCGuQKMYCminiVo1SWx221S7zdUnD1aEG8tLBSMv5oe"
 			]
 		}
 	},
