@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "student",
+				"outputs": [
+					{
+						"internalType": "enum Enum.Learning",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "update",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"basics/Enum.sol": "Enum"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"basics/Enum.sol": {
+			"keccak256": "0x2f74ed77afe2756f43e317a9c7b8108e4658ab375a21852feea32defd55e0692",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://8cc60fa66d5f2c6223b929597247011b7a7704d47de187b68fa04c1d2ebbf0ac",
+				"dweb:/ipfs/QmNoSTrEcN3kduPTuZJXE8NmSwvLJVG55FZnwnkkLAg9zX"
+			]
+		}
+	},
+	"version": 1
+}
