@@ -84,11 +84,11 @@
 	},
 	"sources": {
 		"basics/Mapping.sol": {
-			"keccak256": "0xe904f9cd3260084ad367936aacf91d655d1dd8a79a1d57dfda923a9efe082a5b",
+			"keccak256": "0x1bfa5a398cb33a79b77b590273bc4a14c6cf170d09e69355d95bc82e5773bc11",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://96b1d75cbf029fe797f75c1b96074162657416f17aa29d0d8aa8283909ab7584",
-				"dweb:/ipfs/QmaMMtJvMAYwLcLoysogAdxdc19WWhjWrSn2CMRH6xNSzy"
+				"bzz-raw://a7287dadae79f54c0421603cf3c12dd62b1e3624600edfbd6cf8ca26cf0d842f",
+				"dweb:/ipfs/QmcCepJxYaBy9kKa1h6zkCAouU91Z2ZWXbWZ9FC2gvYvk5"
 			]
 		}
 	},

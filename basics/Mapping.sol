@@ -7,7 +7,7 @@ contract Mapping{
     // nested mapping
     mapping (address=>mapping(address=>bool)) public isFriend;
 
-function addAndCheck() public {
+    function addAndCheck() public {
     balances[msg.sender]=100;
     uint availBal  = balances[msg.sender];
     isFriend[msg.sender][address(this)]=true;
